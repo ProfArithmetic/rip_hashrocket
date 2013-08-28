@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# A simple tool to remove hash rockets in multiple ".rb" files
+# A simple tool to remove hash rockets in multiple ".rb", ".rhtml", and "erb.html" files
 
 require 'rip_hashrocket'
 

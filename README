@@ -2,7 +2,12 @@ Ruby Gem for updating hash syntax from Ruby 1.8 to 1.9 syle, removing rockets "=
 
 
 INSTALLATION:
+*CUSTOM VERSION:
+gem build rip_hashrocket.gemspec
+gem install rip_hashrocket-0.1.1.gem
+*STANDARD INSTALL:
 gem install rip_hashrocket
+
 
 USAGE:
 rip_hashrocket
